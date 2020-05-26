@@ -5,3 +5,5 @@ Worked solutions to the Applied Math portion of PhD Preliminary Exams for the Gr
 Most problems were solved together with Qianhui Wan and Jorge Arroyo. Any diagrams that are not hand-drawn were created in Desmos.
 
 Feel welcome to cite issues.
+
+[View PDF](https://mimmackk.github.io/ggam-prelim/solutions.pdf)
